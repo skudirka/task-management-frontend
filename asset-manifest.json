@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://skudirka.github.io/task-management-frontend/static/css/main.985582f7.css",
+    "main.js": "https://skudirka.github.io/task-management-frontend/static/js/main.931b1a5b.js",
+    "index.html": "https://skudirka.github.io/task-management-frontend/index.html",
+    "main.985582f7.css.map": "https://skudirka.github.io/task-management-frontend/static/css/main.985582f7.css.map",
+    "main.931b1a5b.js.map": "https://skudirka.github.io/task-management-frontend/static/js/main.931b1a5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.985582f7.css",
+    "static/js/main.931b1a5b.js"
+  ]
+}
